@@ -1,0 +1,9 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\HomeWorkIntrIntroductionToProgramming\10.ReformatCode\bin\Debug\10.ReformatCode.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\HomeWorkIntrIntroductionToProgramming\10.ReformatCode\bin\Debug\10.ReformatCode.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\HomeWorkIntrIntroductionToProgramming\10.ReformatCode\bin\Debug\10.ReformatCode.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\HomeWorkIntrIntroductionToProgramming\10.ReformatCode\obj\Debug\10.ReformatCode.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\HomeWorkIntrIntroductionToProgramming\10.ReformatCode\obj\Debug\10.ReformatCode.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\HomeWorkIntrIntroductionToProgramming\10.ReformatCode\obj\Debug\10.ReformatCode.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\IntroToProgrammingHomework\10.ReformatCode\bin\Debug\10.ReformatCode.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\IntroToProgrammingHomework\10.ReformatCode\obj\Debug\10.ReformatCode.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\IntroToProgrammingHomework\10.ReformatCode\obj\Debug\10.ReformatCode.pdb

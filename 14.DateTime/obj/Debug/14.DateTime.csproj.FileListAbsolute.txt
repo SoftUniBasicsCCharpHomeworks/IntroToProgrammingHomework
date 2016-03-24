@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\HomeWorkIntrIntroductionToProgramming\14.DateTime\bin\Debug\14.DateTime.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\HomeWorkIntrIntroductionToProgramming\14.DateTime\bin\Debug\14.DateTime.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\HomeWorkIntrIntroductionToProgramming\14.DateTime\bin\Debug\14.DateTime.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\HomeWorkIntrIntroductionToProgramming\14.DateTime\obj\Debug\14.DateTime.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\HomeWorkIntrIntroductionToProgramming\14.DateTime\obj\Debug\14.DateTime.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\HomeWorkIntrIntroductionToProgramming\14.DateTime\obj\Debug\14.DateTime.pdb

@@ -1,0 +1,8 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\HomeWorkIntrIntroductionToProgramming\15.Age\bin\Debug\15.Age.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\HomeWorkIntrIntroductionToProgramming\15.Age\bin\Debug\15.Age.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\HomeWorkIntrIntroductionToProgramming\15.Age\bin\Debug\15.Age.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\HomeWorkIntrIntroductionToProgramming\15.Age\obj\Debug\15.Age.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\HomeWorkIntrIntroductionToProgramming\15.Age\obj\Debug\15.Age.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\IntroToProgrammingHomework\15.Age\bin\Debug\15.Age.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\IntroToProgrammingHomework\15.Age\obj\Debug\15.Age.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\IntroToProgrammingHomework\15.Age\obj\Debug\15.Age.pdb
